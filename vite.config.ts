@@ -9,7 +9,7 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
 
-import { TanStackRouterVite } from '@tanstack/router-plugin/vite'
+import TanStackRouterVite  from '@tanstack/router-plugin/vite'
 
 
 // https://vitejs.dev/config/
